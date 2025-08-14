@@ -6,7 +6,7 @@ public class Book {
 
         title = "The Great Gatsby";
         author = "F.Scott Fitzgerald";
-        publication_year = 1925;
+        publication_year = 1926;
 
         System.out.println("Title: "+title+"author: "+author+"publication_year: "+publication_year);
 
